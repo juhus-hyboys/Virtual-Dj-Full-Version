@@ -248,4 +248,4 @@ This repository serves as the official landing page for **Virtual DJ**. The soft
 **Get the most recent version of Virtual DJ today!**
 
 ---
-**Last updated:** 2026-11-05 11:46:45 UTC
+**Last updated:** 2026-11-05 19:21:43 UTC
